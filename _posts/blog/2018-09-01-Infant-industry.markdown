@@ -13,7 +13,6 @@ categories: blog
 `Infant-industry and its viability in the present world`, written by Murad Awan
 
 ###Introduction:
-======
 
 Infant-industry protection refers to the idea that fledgling domestic industries need help in gaining their footing because competing with established foreign industries is otherwise frequently futile.
 
