@@ -1,5 +1,5 @@
 name: Murad Awan
-markdown: redcarpet
+markdown: kramdown
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 theme: jekyll-theme-minimal
