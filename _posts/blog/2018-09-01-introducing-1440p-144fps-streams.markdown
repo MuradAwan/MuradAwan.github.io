@@ -5,9 +5,9 @@ date:   2018-09-01 16:51:11
 categories: blog
 ---
 
-```
-**Writing Sample #1:** This sample is meant to show my skill at writing for a company blog. In it, I write an announcement from the point of view of a fictional streaming website as I imagine it.
-```
+
+>**Writing Sample #1:** This sample is meant to show my skill at writing for a company blog. In it, I write an announcement from the point of view of a fictional streaming website as I imagine it.
+
 
 ***
 
